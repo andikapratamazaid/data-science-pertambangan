@@ -1,0 +1,9 @@
+komoditas,model,rmse,mae,mape_persen
+nikel,Naive,10378.7,9779.3,55.4
+nikel,SES,10378.7,9779.3,55.4
+nikel,Holt,11784.7,11049.4,62.7
+nikel,Holt-Winters,13664.9,12788.2,72.7
+batubara,Naive,228.3,224.8,156.0
+batubara,SES,228.3,224.8,156.0
+batubara,Holt,348.1,335.7,235.5
+batubara,Holt-Winters,369.6,356.0,249.7

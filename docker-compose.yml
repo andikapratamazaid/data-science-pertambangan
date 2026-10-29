@@ -1,0 +1,6 @@
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+    # Setelah jalan: buka http://localhost:8000/docs untuk mencoba endpoint.
