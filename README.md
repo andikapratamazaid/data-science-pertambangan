@@ -1,4 +1,4 @@
-# Project 10 — Data Science Perusahaan Pertambangan: EDA sampai API & Docker
+# Data Science Perusahaan Pertambangan: EDA sampai API & Docker
 
 Satu project capstone data science dengan konteks perusahaan tambang
 (batubara dan nikel), mencakup seluruh alur yang biasa diminta dari
